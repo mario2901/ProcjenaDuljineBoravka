@@ -2,7 +2,7 @@ Procjena duljine boravka hotelskih gostiju
 
 Cilj projekta je predvidjeti duljinu boravka hotelskih gostiju na temelju podataka o rezervaciji koristeći metode strojnog učenja. Analiza je provedena na Hotel Booking Demand Dataset koji sadrži 119 390 rezervacija iz dva tipa hotela u Portugalu.
 
-Tehnologije
+Tehnologije 
 
 Python · pandas · scikit-learn · matplotlib · seaborn · Jupyter Notebook
 
